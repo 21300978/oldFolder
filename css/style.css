@@ -7,3 +7,7 @@ p {
     font-size: 24px;
     font-style: italic;
 }
+
+img {
+    width: 100vw;
+}
